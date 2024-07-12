@@ -1,0 +1,94 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Jul 2024 15:44:56 at https://themepanthers.com/wp/creote/v-new/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themepanthers.com/wp/creote/v-new/ -O1 "C:\My Web Sites\VICTONELLA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:45:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9234): themepanthers.com/wp/creote/v-new/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6
+15:46:33	Error: 	"Forbidden" (403) at link https://themepanthers.com/wp/creote/v-new/xmlrpc.php (from https://themepanthers.com/wp/creote/v-new/)
+15:47:14	Error: 	"Forbidden" (403) at link https://themepanthers.com/wp/creote/v-new/xmlrpc.php?rsd (from https://themepanthers.com/wp/creote/v-new/)
+15:48:45	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/eleven (from https://themepanthers.com/wp/creote/v-new/)
+15:48:55	Error: 	"Error when decompressing" (-1) at link https://themepanthers.com/wp/creote/v-new/home-page-seven (from https://themepanthers.com/wp/creote/v-new/)
+15:48:55	Error: 	"Error when decompressing" (-1) at link https://themepanthers.com/wp/creote/v-new/home-page-eight (from https://themepanthers.com/wp/creote/v-new/)
+15:50:40	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/404 (from https://themepanthers.com/wp/creote/v-new/)
+15:53:00	Warning: 	Found for https://themepanthers.com/wp/creote/v-new/checkout/
+15:53:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/checkout/ to https://themepanthers.com/wp/creote/v-new/cart/
+15:54:36	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/wp-content/plugins/creote-addons/assets/css/owl.video.play.png (from https://themepanthers.com/wp/creote/v-new/wp-content/plugins/creote-addons/assets/css/owl.css?ver=2.3.4)
+15:54:36	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/wp-content/themes/creote/assets/webfonts/fa-v4compatibility.woff2 (from https://themepanthers.com/wp/creote/v-new/wp-content/themes/creote/assets/css/font-awesome.min.css?ver=4.7.0)
+15:54:36	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/wp-content/themes/creote/assets/webfonts/fa-v4compatibility.ttf (from https://themepanthers.com/wp/creote/v-new/wp-content/themes/creote/assets/css/font-awesome.min.css?ver=4.7.0)
+15:54:39	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=2200
+15:54:39	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=2200 to https://themepanthers.com/wp/creote/v-new/home-page-two/
+15:54:39	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=8
+15:54:39	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=8 to https://themepanthers.com/wp/creote/v-new/home-page-three/
+15:54:45	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=1609
+15:54:45	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=1609 to https://themepanthers.com/wp/creote/v-new/home-page-four/
+15:54:55	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=1862
+15:54:55	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=1862 to https://themepanthers.com/wp/creote/v-new/home-page-five/
+15:54:55	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=2076
+15:54:55	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=2076 to https://themepanthers.com/wp/creote/v-new/home-page-six/
+15:54:55	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=2938
+15:54:55	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=2938 to https://themepanthers.com/wp/creote/v-new/home-page-seven/
+15:54:55	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=3766
+15:54:55	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=3766 to https://themepanthers.com/wp/creote/v-new/home-page-eight/
+15:58:17	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=4733
+15:58:17	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=4733 to https://themepanthers.com/wp/creote/v-new/home-page-nine/
+15:58:19	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=4919
+15:58:19	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=4919 to https://themepanthers.com/wp/creote/v-new/home-page-ten/
+15:58:19	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/home-page-ten/steelthemes.com (from https://themepanthers.com/wp/creote/v-new/home-page-ten/)
+15:58:19	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=5270
+15:58:19	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=5270 to https://themepanthers.com/wp/creote/v-new/home-page-twelve/
+15:58:31	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=5255
+15:58:31	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=5255 to https://themepanthers.com/wp/creote/v-new/home-page-eleven/
+15:58:31	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=10
+15:58:31	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=10 to https://themepanthers.com/wp/creote/v-new/about-us/
+15:58:31	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=77
+15:58:31	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=77 to https://themepanthers.com/wp/creote/v-new/contact/
+15:58:32	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=5477
+15:58:32	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=5477 to https://themepanthers.com/wp/creote/v-new/jobs/
+15:58:32	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=5476
+15:58:32	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=5476 to https://themepanthers.com/wp/creote/v-new/job-dashboard/
+15:58:59	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=5475
+15:58:59	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=5475 to https://themepanthers.com/wp/creote/v-new/post-a-job/
+15:58:59	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=476
+15:58:59	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=476 to https://themepanthers.com/wp/creote/v-new/service-classic/
+15:58:59	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=15
+15:58:59	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=15 to https://themepanthers.com/wp/creote/v-new/service-default/
+15:59:00	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/service/health-care-benefits/feed/ (from https://themepanthers.com/wp/creote/v-new/service/health-care-benefits/)
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=490
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=490 to https://themepanthers.com/wp/creote/v-new/service/health-care-benefits/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=58
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=58 to https://themepanthers.com/wp/creote/v-new/1-column-grid/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=60
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=60 to https://themepanthers.com/wp/creote/v-new/2-columns-grid/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=61
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=61 to https://themepanthers.com/wp/creote/v-new/3-columns-grid/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=62
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=62 to https://themepanthers.com/wp/creote/v-new/3-columns-overlay/
+15:59:00	Error: 	"Not Found" (404) at link https://themepanthers.com/wp/creote/v-new/project/company-values-the-relationship/feed/ (from https://themepanthers.com/wp/creote/v-new/project/company-values-the-relationship/)
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=504
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=504 to https://themepanthers.com/wp/creote/v-new/project/company-values-the-relationship/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=13
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=13 to https://themepanthers.com/wp/creote/v-new/pricing-packages/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=14
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=14 to https://themepanthers.com/wp/creote/v-new/our-team/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=12
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=12 to https://themepanthers.com/wp/creote/v-new/faqs/
+15:59:00	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=11
+15:59:00	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=11 to https://themepanthers.com/wp/creote/v-new/coming-soon/
+15:59:05	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=18
+15:59:05	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=18 to https://themepanthers.com/wp/creote/v-new/blog-modern-01/
+15:59:07	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=19
+15:59:07	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=19 to https://themepanthers.com/wp/creote/v-new/blog-modern-02/
+15:59:10	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=20
+15:59:10	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=20 to https://themepanthers.com/wp/creote/v-new/blog-simple/
+15:59:12	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=17
+15:59:12	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=17 to https://themepanthers.com/wp/creote/v-new/blog-list-view/
+15:59:13	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=21
+15:59:13	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=21 to https://themepanthers.com/wp/creote/v-new/metro-fullwidth/
+15:59:18	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=350
+15:59:18	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=350 to https://themepanthers.com/wp/creote/v-new/2021/10/08/why-should-business-payroll-outsourcing/
+16:03:07	Error: 	"Bad Request" (400) at link https://themepanthers.com/wp/creote/v-new/wp-admin/admin-ajax.php?action=rest-nonce (from https://themepanthers.com/wp/creote/v-new/shop/)
+16:03:07	Warning: 	Moved Permanently for https://themepanthers.com/wp/creote/v-new/?p=2666
+16:03:07	Warning: 	File has moved from https://themepanthers.com/wp/creote/v-new/?p=2666 to https://themepanthers.com/wp/creote/v-new/products/
